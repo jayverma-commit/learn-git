@@ -2,3 +2,6 @@ welcome to the git firt file
 
 new line 1
 new line 2
+
+
+.git keep : it is used to write the name of folders  which we want to push either it is empty or not 
