@@ -5,4 +5,16 @@ new line 2
 
 
 .git keep : it is used to write the name of folders  which we want to push either it is empty or not 
+<<<<<<< Updated upstream
 c
+=======
+
+# ther are find the branch of the git 
+1 . git branch : check the how many branches in the git 
+
+2. git switch : they are switch the branch to one to another branch
+
+" they are modifiying the code for the file and get the switch to given the error to switch the brach to command is :"
+
+3. git stash: they are command is the comment line 
+>>>>>>> Stashed changes
